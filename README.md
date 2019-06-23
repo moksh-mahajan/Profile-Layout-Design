@@ -1,6 +1,6 @@
-# layout_challenge
+# Profile Screen Design
 
-A new Flutter project.
+A simple design for showing a user profile developed in flutter.
 
 ## Getting Started
 
