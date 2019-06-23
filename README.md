@@ -1,7 +1,7 @@
 # Profile Screen Design
 
 A simple design for showing a user profile developed in flutter.
-
+![Screenshot](https://github.com/moksh-mahajan/Profile-Layout-Design/blob/master/photo6086922858887489683.jpg)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
